@@ -598,6 +598,10 @@ video {
   bottom: 0.75rem;
 }
 
+.right-40 {
+  right: 10rem;
+}
+
 .my-10 {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
@@ -773,6 +777,10 @@ video {
   width: 16.666667%;
 }
 
+.w-28 {
+  width: 7rem;
+}
+
 .grow {
   flex-grow: 1;
 }
@@ -851,6 +859,10 @@ video {
 
 .gap-20 {
   gap: 5rem;
+}
+
+.gap-32 {
+  gap: 8rem;
 }
 
 .self-center {
@@ -1037,6 +1049,16 @@ video {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 .pt-4 {
